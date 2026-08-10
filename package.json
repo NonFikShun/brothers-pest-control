@@ -1,6 +1,7 @@
 {
   "name": "brothers-pest-control",
   "version": "1.0.0",
+  "homepage": "https://nonfikshun.github.io/brothers-pest-control",
   "description": "Professional website for Brothers Pest Control - pest management services in CSRA",
   "private": true,
   "dependencies": {
